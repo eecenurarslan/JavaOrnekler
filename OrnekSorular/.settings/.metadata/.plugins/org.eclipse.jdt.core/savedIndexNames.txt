@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\asus\eclipse-workspace\OrnekSorular\.settings\.metadata\.plugins\org.eclipse.jdt.core
+3607195449.index
+1865797976.index
+2880423253.index
